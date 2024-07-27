@@ -1,0 +1,6 @@
+[submodule "outfitRecommendationAppBackend"]
+	path = outfitRecommendationAppBackend
+	url = https://github.com/anamariapanait10/outfitRecommendationAppBackend
+[submodule "outfitRecommendationAppFrontEnd"]
+	path = outfitRecommendationAppFrontEnd
+	url = https://github.com/anamariapanait10/outfitRecommendationAppFrontEnd
