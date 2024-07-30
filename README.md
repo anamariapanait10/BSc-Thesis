@@ -27,7 +27,7 @@ preferences for the current month, the distribution of clothes according to weat
 and more.
 
 
-- [Documentation](https://github.com/anamariapanait10/BSc-Thesis/tree/master/)
-- [Presentation](https://github.com/anamariapanait10/BSc-Thesis/tree/master/)
+- [Documentation](https://github.com/anamariapanait10/BSc-Thesis/blob/main/Aplicație_mobilă_inteligentă_pentru_gestionarea_și_recomandarea_ținutelor.pdf)
+- [Presentation](https://github.com/anamariapanait10/BSc-Thesis/blob/main/PrezentareLicenta.pdf)
 - [Backend](https://github.com/anamariapanait10/outfitRecommendationAppBackend)
 - [Frontend](https://github.com/anamariapanait10/outfitRecommendationAppFrontEnd)
